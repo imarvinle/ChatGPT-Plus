@@ -1,4 +1,4 @@
-# 2026年最新 ChatGPT Plus 充值教程：国内怎么开通 ChatGPT Plus？如何升级 GPT Plus / GPT Pro / ChatGPT Business？附 ChatGPT、Claude、Grok、Gemini 选购建议
+# 2026年最新 ChatGPT Plus 充值教程：国内怎么开通 ChatGPT Plus？如何升级 GPT Plus / GPT Pro / ChatGPT Business？附 ChatGPT 选购建议
 
 <p align="center">最近更新时间：2026年4月3日</p>
 
