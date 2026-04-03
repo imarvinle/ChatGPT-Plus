@@ -12,6 +12,10 @@
 
 * [GETGPT Pro](https://getgpt.pro/)
 
+下图是我在 2026 年 4 月 3 日抓到的 GETGPT Pro 官网首页截图，可以直接看到首页主打的就是 `ChatGPT Plus` 充值服务：
+
+![GETGPT Pro 官网首页截图](./getgpt-home.png)
+
 根据 GETGPT Pro 官网 2026 年 4 月可见页面，目前站内已经覆盖这些 GPT / AI 相关产品与服务：
 
 * [ChatGPT Plus 代充](https://getgpt.pro/)
@@ -68,6 +72,10 @@
 * [ChatGPT Plus 充值](https://getgpt.pro/)
 * [Plus 套餐页](https://getgpt.pro/plus-price)
 
+下面这张是 `Plus` 套餐页截图，当前页面能直接看到 `ChatGPT Plus 充值` 和 `ChatGPT Pro 充值` 两种方案：
+
+![GETGPT Pro Plus 套餐页截图](./getgpt-plus-price.png)
+
 如果你平时主要是这些场景，Plus 基本就够了：
 
 * 写文章、写方案、写邮件
@@ -100,6 +108,10 @@ GETGPT Pro 当前有单独的 `ChatGPT Pro` 页面，但不是自助下单，而
 直达入口：
 
 * [ChatGPT Business 邀请加入](https://getgpt.pro/price)
+
+下面这张是 `Business` 价格页截图，当前页面可以直接看到 `ChatGPT Plus / Pro` 与 `ChatGPT Business` 的套餐分区：
+
+![GETGPT Pro Business 价格页截图](./getgpt-business-price.png)
 
 如果你需要的是这些能力，那么 Business 往往比 Plus 更对路：
 
