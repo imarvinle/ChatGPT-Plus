@@ -2,7 +2,7 @@
 
 <p align="center">最近更新时间：2026年4月3日</p>
 
-![2026年最新 ChatGPT Plus 充值教程封面](./chatgpt-plus-cover.png)
+![2026年最新 ChatGPT Plus 充值教程封面](./image/chatgpt-plus-cover.png)
 
 很多人到了 2026 年还卡在同一个问题上：**ChatGPT 很好用，但国内开通 ChatGPT Plus 还是麻烦**。不是信用卡被拒，就是礼品卡流程太绕；好不容易折腾到最后，还可能因为支付环境不稳定导致失败。
 
@@ -14,7 +14,7 @@
 
 下图是我在 2026 年 4 月 3 日抓到的 GETGPT Pro 官网首页截图，可以直接看到首页主打的就是 `ChatGPT Plus` 充值服务：
 
-![GETGPT Pro 官网首页截图](./getgpt-home.png)
+![GETGPT Pro 官网首页截图](./image/getgpt-home.png)
 
 根据 GETGPT Pro 官网 2026 年 4 月可见页面，目前站内已经覆盖这些 GPT / AI 相关产品与服务：
 
@@ -74,7 +74,7 @@
 
 下面这张是 `Plus` 套餐页截图，当前页面能直接看到 `ChatGPT Plus 充值` 和 `ChatGPT Pro 充值` 两种方案：
 
-![GETGPT Pro Plus 套餐页截图](./getgpt-plus-price.png)
+![GETGPT Pro Plus 套餐页截图](./image/getgpt-plus-price.png)
 
 如果你平时主要是这些场景，Plus 基本就够了：
 
@@ -111,7 +111,7 @@ GETGPT Pro 当前有单独的 `ChatGPT Pro` 页面，但不是自助下单，而
 
 下面这张是 `Business` 价格页截图，当前页面可以直接看到 `ChatGPT Plus / Pro` 与 `ChatGPT Business` 的套餐分区：
 
-![GETGPT Pro Business 价格页截图](./getgpt-business-price.png)
+![GETGPT Pro Business 价格页截图](./image/getgpt-business-price.png)
 
 如果你需要的是这些能力，那么 Business 往往比 Plus 更对路：
 
